@@ -1,4 +1,5 @@
-# OFFICIAL SITE : https://zenless.hoyoverse.com/en-us/
+### OFFICIAL SITE : https://zenless.hoyoverse.com/en-us/
+HoYoPlay Launcher: [Download](https://hoyoplay.hoyoverse.com)
 
 ## Recommended Specifications
 
