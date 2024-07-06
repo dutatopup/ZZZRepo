@@ -1,7 +1,7 @@
 ##### Full Installation
 ![ZZZ Version](https://img.shields.io/badge/1.0.0-Update-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Full-Update-gold?style=for-the-badge)
-![OS](https://img.shields.io/badge/OverSEA-Version-red?style=for-the-badge)
+![OS](https://img.shields.io/badge/Global-Version-red?style=for-the-badge)
 
 Size 5.01GB/parts
 
