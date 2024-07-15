@@ -31,10 +31,5 @@ Android: Android 11.0, HarmonyOS 4.0, or later versions
 
 <hr>
 
-## Storage Space Requirements for fresh installation v1.0.0
-
-PC: Requires 57GB (unzip process requires an additional 58GB)
-
-iOS: Requires 26GB available
-
-Android: Requires 20GB available
+## HoYoLauncher API RESPONSE
+[API's Response](https://github.com/dutatopup/HoYo-Games-Repository)
