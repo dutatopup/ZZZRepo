@@ -7,11 +7,11 @@
 
 [Audio CN](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.1.0_hdiff_EJDcwbkGUKObZobY.zip) Size : 89.89 MB
 
-[Audio EN](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.1.0_hdiff_hZKUdNaKkfwPotiT.zip) Size : 105.08 MB
+[Audio EN](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.0.1_1.1.0_hdiff_hZKUdNaKkfwPotiT.zip) Size : 105.08 MB
 
-[Audio KO](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.1.0_hdiff_HLGOvKwjlQPsGmRs.zip) Size : 101.30 MB
+[Audio KO](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.0.1_1.1.0_hdiff_HLGOvKwjlQPsGmRs.zip) Size : 101.30 MB
 
-[Audio JP](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.1.0_hdiff_icFimTTzuCqPhGgs.zip) Size : 116.13 MB
+[Audio JP](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.0.1_1.1.0_hdiff_icFimTTzuCqPhGgs.zip) Size : 116.13 MB
 
 <hr>
 
